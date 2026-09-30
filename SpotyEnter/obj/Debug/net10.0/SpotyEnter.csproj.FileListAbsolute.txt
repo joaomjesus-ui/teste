@@ -1,0 +1,14 @@
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.AssemblyInfoInputs.cache
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.AssemblyInfo.cs
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.csproj.CoreCompileInputs.cache
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\bin\Debug\net10.0\SpotyEnter.exe
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\bin\Debug\net10.0\SpotyEnter.deps.json
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\bin\Debug\net10.0\SpotyEnter.runtimeconfig.json
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\bin\Debug\net10.0\SpotyEnter.dll
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\bin\Debug\net10.0\SpotyEnter.pdb
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.dll
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\refint\SpotyEnter.dll
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.pdb
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\SpotyEnter.genruntimeconfig.cache
+C:\Users\joao.mdias\source\repos\SpotyEnter\SpotyEnter\obj\Debug\net10.0\ref\SpotyEnter.dll
